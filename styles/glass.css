@@ -1,12 +1,12 @@
 /* Glass Theme: Only color, font, and visual style rules */
 :root {
-  --accent-color: #2b3f6d;
+  --accent-color: #116e86;
   --link-color: #1a73e8;
   --link-hover-color: #0d47a1;
   --text-color: #202124;
-  --button-bg-color: #00080b;
+  --button-bg-color: #7b0270;
   --button-text-color: #ffffff;
-  --button-hover-bg-color: #790048;
+  --button-hover-bg-color: #7900488;
   --button-hover-text-color: #ffffff;
   --background-color: #ffffff;
   --border-color: #dadce0;
@@ -14,9 +14,8 @@
 
 body {
     color: var(--text-color);
-    background-color: #00080b;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" id="mesh-gradient" width="1000" height="500" viewBox="0 0 1000 500" ><defs><filter id="blur" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="500"><feGaussianBlur stdDeviation="100" /></filter><filter id="noise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="1" octaves="3" result="turbulence" stitchTiles="stitch" /><feBlend in="SourceGraphic" in2="turbulence" mode="overlay" /></filter></defs><rect id="background" width="100%" height="100%" fill="%23000" /><g id="swatches" width="1000" height="500" filter="url(%23blur)"><rect x="-15.44224332205141" y="263.19199270082527" width="546.8014348636946" height="336.8995094066539" fill="%2300080B" /><rect x="578.6756277806472" y="173.1066993841658" width="464.88479364654404" height="388.741403145619" fill="%23790048" /><rect x="688.4935170017749" y="-189.05109553718972" width="339.1653236383625" height="535.1144942431499" fill="%23351897" /><rect x="749.1587230058179" y="-183.26118110648645" width="360.2366510079847" height="405.5313841333335" fill="%23116E86" /></g><rect x="0" y="0" width="1000" height="500" style="mix-blend-mode: luminosity; filter: url(%23noise); opacity: 20%"></rect></svg>');
-    background-size: cover;
+    background-color: #116e86;
+    background-image: linear-gradient(120deg, #116e86, #0e4784, #0c2082, #1b0980, #3e077f, #62057d, #7b0270, #790048) !important;
 }
 
 .bio-container {
@@ -29,7 +28,7 @@ body {
 }
 
 #gravatar-image {
-    border: 3px solid var(--accent-color);
+    border: 3px solid var(--border-color);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
