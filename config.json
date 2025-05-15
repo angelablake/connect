@@ -1,49 +1,37 @@
 {
   "profile": {
-    "name": "Matt Cromwell",
-    "tagline": "Helping WordPress professionals build better businesses",
-    "gravatarEmail": "matt@wpproducttalk.com",
-    "bio": "I'm Matt Cromwell — a WordPress product entrepreneur, Senior Director of Customer Experience at StellarWP, and co-founder of GiveWP. I lead teams, build brands, and design customer-first experiences that scale. I also host WP Product Talk, a podcast focused on helping WordPress product owners grow with confidence. I'm passionate about 3rd wave coffee, piano, disc golf, and faith-centered leadership."
+    "name": "Angela Blake",
+    "tagline": "Helping nonprofits raise funds online.",
+    "gravatarEmail": "connect@angelablake.pro",
+    "bio": "I'm Angela Blake - a Senior Product Manager at GiveWP."
   },
   "social": {
-    "linkedin": "https://linkedin.com/in/mattcromwell",
-    "x": "https://x.com/learnwithmattc",
-    "wordpress": "https://profiles.wordpress.org/webdevmattcrom/",
-    "youtube": "https://youtube.com/@wpproducttalk",
-    "github": "https://github.com/mathetos/",
-    "bluesky": "https://bsky.app/profile/mattcromwell.bsky.social",
-    "email": "https://mattcromwell.com/contact"
+    "linkedin": "https://linkedin.com/in/angela-blake",
+    "x": "",
+    "wordpress": "",
+    "youtube": "",
+    "github": "",
+    "bluesky": "",
+    "email": "mailto:connect@angelablake.pro"
   },
   "links": [
     {
-      "title": "WP Product Talk Podcast",
-      "url": "https://wpproducttalk.com"
-    },
-    {
-      "title": "StellarWP",
-      "url": "https://stellarwp.com"
-    },
-    {
       "title": "GiveWP",
       "url": "https://givewp.com"
-    },
-    {
-      "title": "My Writing",
-      "url": "https://mattcromwell.com"
     }
   ],
   "blog": {
-    "rssFeed": "https://www.mattcromwell.com/feed/",
+    "rssFeed": "",
     "wordCount": 75
   },
   "support": {
     "buttonText": "Buy Me a Coffee ☕️",
-    "url": "https://www.buymeacoffee.com/mattcromwell"
+    "url": "l"
   },
   "contact": {
     "buttonText": "Contact Me ✉️",
-    "url": "https://mattcromwell.com/contact"
+    "url": "mailto:connect@angelablake.pro"
   },
-  "theme": "dark",
+  "theme": "glass",
   "gravatarHovercard": false
 } 
