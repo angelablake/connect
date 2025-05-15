@@ -14,7 +14,7 @@
 
 body {
     color: var(--text-color);
-    background-color: #2b3f6d;
+    background-color: #06a9b5;
     background-image: linear-gradient(120deg, #06a9b5, #076fa5, #073f95, #071785, #180775, #2f0765, #3d0755, #420645, #35052a) !important;
 }
 
